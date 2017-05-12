@@ -1,2 +1,2 @@
 # ewallteam
-Magento Modules Respositaory
+Magento Modules Repository
